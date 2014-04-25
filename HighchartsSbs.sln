@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighchartsSbs.Model", "HighchartsSbs.Model\HighchartsSbs.Model.csproj", "{21B807F8-2E38-4DC9-BC1B-863F7280D45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighchartsSbs.Demo", "HighchartsSbs.Demo\HighchartsSbs.Demo.csproj", "{07168CD8-9EA7-444D-BF13-625C39D48425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B807F8-2E38-4DC9-BC1B-863F7280D45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B807F8-2E38-4DC9-BC1B-863F7280D45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B807F8-2E38-4DC9-BC1B-863F7280D45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B807F8-2E38-4DC9-BC1B-863F7280D45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07168CD8-9EA7-444D-BF13-625C39D48425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07168CD8-9EA7-444D-BF13-625C39D48425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07168CD8-9EA7-444D-BF13-625C39D48425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07168CD8-9EA7-444D-BF13-625C39D48425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
